@@ -34,7 +34,7 @@ print("                    RESULT                    ")
 print("----------------------------------------------")
 
 print("Correct Answers: ", " ".join(answers))
-print("Your Answers: ", " ".join(guesses))
+print("Your Answers:    ", " ".join(guesses))
 
 score_percentage = int(score / len(questions) * 100)
 print(f"Your score is {score_percentage}%")
