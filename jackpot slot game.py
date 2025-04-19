@@ -33,11 +33,11 @@ def main():
     print("*************************")
     print(" Welcome to Python Slots ")
     print("Symbol    |     Reward   ")
-    print("🍒        |      3  times")
-    print("🍉        |      4  times")
-    print("🍋        |      5  times")
-    print("🔔        |      10 times")
-    print("⭐        |      20 times")
+    print("🍒        |      $3")
+    print("🍉        |      $4")
+    print("🍋        |      $5")
+    print("🔔        |      $10")
+    print("⭐        |      $20")
     print("*************************")
 
     while balance > 0:
